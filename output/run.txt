@@ -1,0 +1,3 @@
+page 50: 20 items
+
+Pages: 50 | scraped: 1000 | after dedupe: 1000 -> output/books.csv / .xlsx
